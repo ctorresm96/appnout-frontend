@@ -2,9 +2,9 @@
   "name": "appnout",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 4200",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 4201",
     "lint": "next lint"
   },
   "dependencies": {
